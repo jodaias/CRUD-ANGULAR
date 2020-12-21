@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook i7 9ºG",
+      "price": 5200.89
+    },
+    {
+      "id": 3,
+      "name": "Celular samsung S50+",
+      "price": 3000.89
+    },
+    {
+      "name": "geladeira",
+      "price": "3000.00",
+      "id": 5
+    },
+    {
+      "name": "geladeira 500 l",
+      "price": "4000.00",
+      "id": 6
+    }
+  ]
+}
